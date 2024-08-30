@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samata-Bhikavale
-- 👀  I’m actively looking for Full Time Roles in Data Analysis
-- 💞️ I’m looking to collaborate on data science and analytics projects
+- 👀  I’m actively looking for full Time Roles in Data Analysis Field
+- 💞️ I’m looking to collaborate on analytics projects
 - 📫  You can reach me via bhikavalesamata@gmail.com
 - 😄 Pronouns: she/her/hers
 
