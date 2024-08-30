@@ -7,8 +7,9 @@
 
 My Socials
 
-LinkedIn https://www.linkedin.com/in/samata-b-500896163
-GitHub https://github.com/Samata-Bhikavale
+LinkedIn:   www.linkedin.com/in/samata-b-500896163
+
+GitHub:      https://github.com/Samata-Bhikavale
 
 <!---
 Samata-Bhikavale/Samata-Bhikavale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
