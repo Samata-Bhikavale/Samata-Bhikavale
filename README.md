@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Samata-Bhikavale
-- 👀  I’m actively looking for full Time Roles in Data Analysis Field
-- 💞️ I’m looking to collaborate on analytics projects
-- 📫  You can reach me via bhikavalesamata@gmail.com
-- 😄 Pronouns: she/her/hers
-
+- 🎓 MBA in Information Technology Service Management@ NMIMS Mumbai
+  
+- 💻 System Engineer @ Tata Consultancy Services
+- 🌱 I’m actively seeking Full Time Roles in Data Analysis & Business Intelligence domain
+- 📫 How to reach me bhikavalesamata@gmail.com
+- 👨‍💻 All of my projects are available at Project Repositories
 
 My Socials
 
