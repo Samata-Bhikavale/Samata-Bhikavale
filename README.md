@@ -4,7 +4,7 @@
 - 💻 System Engineer @ Tata Consultancy Services
 - 🌱 I’m actively seeking Full Time Roles in Data Analysis & Business Intelligence domain
 - 📫 How to reach me bhikavalesamata@gmail.com
-- 👨‍💻 All of my projects are available at Project Repositories
+
 
 My Socials
 
